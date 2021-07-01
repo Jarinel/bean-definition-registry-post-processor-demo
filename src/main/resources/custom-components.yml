@@ -1,0 +1,12 @@
+---
+beanName: firstBean
+text: First text
+number: 13
+---
+beanName: secondBean
+text: Another text
+number: 27
+---
+beanName: herGorniy
+text: Her Gorniy
+number: 24123
